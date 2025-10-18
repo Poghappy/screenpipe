@@ -21,6 +21,6 @@
     "@google/generative-ai": "^0.21.0",
     "@sentry/cloudflare": "^8.51.0",
     "langfuse-node": "^3.32.3",
-    "openai": "^4.80.1"
+    "openai": "^4.104.0"
   }
 }
